@@ -1,0 +1,13 @@
+{
+    "name": "webaxones/wax-tinymce-subsup",
+    "description": "Add Subscript and Superscript buttons to tinymce editor",
+    "license": "GPL-2.0",
+    "authors": [{
+        "name": "Webaxones",
+        "email": "contact@webaxones.com"
+    }],
+    "type": "wordpress-muplugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
